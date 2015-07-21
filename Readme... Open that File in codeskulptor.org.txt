@@ -1,1 +1,6 @@
 Readme... Open that File in codeskulptor.org
+
+Or 
+
+goto that Link:
+ http://www.codeskulptor.org/#user38_d6Nfg40Uob_2.py
