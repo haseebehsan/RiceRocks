@@ -1,9 +1,9 @@
 # RiceRocks
 Web Based Game Written In Python
 
-Open that File in codeskulptor.org
+Open that File in http://codeskulptor.org/
 
-Or 
+Or
 
 goto that Link:
  http://www.codeskulptor.org/#user38_d6Nfg40Uob_2.py
